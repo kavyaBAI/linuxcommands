@@ -1,0 +1,19 @@
+basics screen commands in linux 
+
+1.screen -ls ->show list of screen 
+2.screen -x <filename> -> open particular screen
+ 
+ 3.activat the virtual env  -> source (vir_name)/bin/activate
+ 4.list the files ->ls
+ 5.pwd->present working directory
+ 6.cd-> source/kavya/documents/
+ 7.cd ..-> source/kavya/
+ 8.ctrl+a+d will exit from the screen 
+ 9.ctrl+l clear screen 
+ 10.for opening  any files we have to use the VIM command followed by the filename
+ vim filename
+ 11.running python files ->python <filename>
+ 12.:wq(write(save),quite) :q(quit) i insert 
+ 13.creating the directory mkdir <name>
+ 14.esc u will work like ctrl z
+ 
