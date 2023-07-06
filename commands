@@ -21,3 +21,5 @@ ctrl ww - moving to next screen
 :sp file name (split the scrren)
 shift gg -moving up
 gg -down
+if file is swapwd then esc r copy the file name name later -----> rm copyied filename (ll show swaped file name copy it nad remove it )
+to delete data inside the file  then echo > filename
