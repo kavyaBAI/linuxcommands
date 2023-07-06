@@ -16,4 +16,8 @@ basics screen commands in linux
  12.:wq(write(save),quite) :q(quit) i insert 
  13.creating the directory mkdir <name>
  14.esc u will work like ctrl z
- 
+ 15. for redo esc u
+ctrl ww - moving to next screen 
+:sp file name (split the scrren)
+shift gg -moving up
+gg -down
