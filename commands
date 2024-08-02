@@ -26,4 +26,6 @@ to delete data inside the file  then echo > filename
 20. to delete the line 3dd  (number dd) command
 21. ll longest file 
 22.htop (which will show which processes will running on that server)
+23.yyp->copy ans paste to next line
+
 
